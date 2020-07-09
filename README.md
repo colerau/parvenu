@@ -1,2 +1,2 @@
-# spotsup
-Spotify supplement (web app)
+# parvenu
+online appointment scheduler for Parvenu hair solon
